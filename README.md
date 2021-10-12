@@ -6,4 +6,4 @@
 \__,_/      \__,_/\__,_/_.___/____/                                                        
 ```
 
-My github is sad and unloved at the moment :'( Check back in the Fall when it is finally shown the love it so desperately needs and deserves
+My github is sad and unloved at the moment :'( Check back in winter 2021 when it is finally shown the love it so desperately needs and deserves
