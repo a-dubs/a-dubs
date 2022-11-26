@@ -7,6 +7,7 @@
 ```
 <br>
 For a more bite-size glimpse at all my independent projects, check out my portfolio site!  
+
 It is automatically generated using information from my GitHub repos  
 
 ## FEATURED PROJECTS
