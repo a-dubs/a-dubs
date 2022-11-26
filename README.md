@@ -6,10 +6,10 @@
 \__,_/      \__,_/\__,_/_.___/____/                                                        
 ```
 <br>
-I am actively cleaning through old junk repositories, updating all applicable repos to use a standardized repo and README format/structure, and adding many new repositories for various projects of mine. 
+For a more bite-size glimpse at all my independent projects, check out my portfolio site! 
+It is automatically generated using information from my GitHub repos  
 
 ## FEATURED PROJECTS
  - Smart Deadbolt & Authentication Panel
  - Smart Alarm Clock Mat
  - Autonomous Intersection Simulation
- - ESTKb - Ergonomic Split Trackball Keyboard
